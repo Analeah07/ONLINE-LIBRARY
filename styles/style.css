@@ -1,0 +1,11 @@
+.exit
+    {
+      margin-left: 1240px;
+      background: #fbf8f8;
+      padding: 5px;
+      border-radius: 5px;
+    }
+.exit > a
+    {
+      text-decoration: none;
+    }
